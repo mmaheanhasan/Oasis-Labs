@@ -41,4 +41,4 @@ In the last few months, I saw so many of my friends from the AI field created so
 
 ## What's next for OASIS Labs
 
-- Going to Polygon mainnet with at least a hundred talented developers, creators and researchers while integrating with all the tools mentioned above in the "What It Does" mainnet section.
+- Going to Polygon mainnet with at least a hundred talented developers, creators and researchers while integrating with all the tools mentioned above in the "What It Does" Polygon mainnet section.
