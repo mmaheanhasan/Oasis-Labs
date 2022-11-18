@@ -29,7 +29,7 @@ In the last few months, I saw so many of my friends from the AI field created so
     - The voting mechanism won’t wholly be on-chain. OASIS Labs will integrate IPFS and Chainlink Oracle for a performing off-chain mechanism.
     - OASIS Labs will integrate the NFT Index service of Truflation for its later workarounds with ERC-721 NFTs.
     - Integration of Render Network for distributed GPU rendering in Blockchain because it will be the key to generating high-quality real-time render in Blockchain.
-    - After collaborating with experienced artists and developers and integrating all the other tools that I explained above to take OASIS into mainnet, OASIS labs will be a DAO with a treasury where OASIS citizens will be able to fund projects they wish and start collaborating with anyone with a shared incentive. OASIS Labs will be capable of leaping into the new frontier of the internet after going to the mainnet.
+    - After collaborating with experienced artists and developers and integrating all the other tools that I explained above to take OASIS into mainnet, OASIS labs will be a DAO with a treasury where OASIS citizens will be able to fund projects they wish and start collaborating with anyone with shared incentives. OASIS Labs will be capable of leaping into the new frontier of the internet after going to the mainnet.
 
 ## How I built it
 
