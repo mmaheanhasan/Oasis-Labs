@@ -14,6 +14,7 @@ In the last few months, I saw so many of my friends from the AI field created so
     - After Connecting your wallet, you will be directed to mint your ERC-1155 OASIS Labs membership NFT.
     - Only after minting the NFT, you will get the opportunity to see the membership page where you can see all the remaining members and how much governance token(OASIS Token) they hold. You will also see that token holders can vote on proposals on-chain.
     - I can also do token airdrops to members using a randomness function in a set limit.
+    
     ![memberpage](https://user-images.githubusercontent.com/73466007/202773898-016df1bf-6ebd-4a47-81e2-74e641858671.PNG)
 
 
@@ -37,20 +38,6 @@ In the last few months, I saw so many of my friends from the AI field created so
 - Thirdweb: Used their SDK.
 - Stable Diffusion: Generated all the graphics using generative AI.
 
-## Challenges I ran into
-
-- It was too late to find a teammate when I decided to go for it. So, I had to do everything myself.
-- Integrating new tools was challenging overall when I am not a developer myself.
-
-## Accomplishments that I’m proud of
-
-- Brainstormed and researched a unique, timely idea to check whether all the dots connect(my main expertise).
-- I built my first blockchain project all by myself in 5 days and submitted it in my first hackathon. So, fund me if you can to upgrade my machines and build big.
-
-## What I learned
-
-- How to deploy smart contracts.
-- How to store things in a decentralized way using IPFS and Filecoin.
 
 ## What's next for OASIS Labs
 
