@@ -17,7 +17,10 @@ In the last few months, I saw so many of my friends from the AI field created so
     
     ![memberpage](https://user-images.githubusercontent.com/73466007/202773898-016df1bf-6ebd-4a47-81e2-74e641858671.PNG)
     
+    
+    
     Youtube Link: https://youtu.be/0Az8woaOLb4
+
 
 
 - **In Polygon mainnet:**
