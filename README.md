@@ -16,6 +16,8 @@ In the last few months, I saw so many of my friends from the AI field created so
     - I can also do token airdrops to members using a randomness function in a set limit.
     
     ![memberpage](https://user-images.githubusercontent.com/73466007/202773898-016df1bf-6ebd-4a47-81e2-74e641858671.PNG)
+    
+    Youtube Link: https://youtu.be/0Az8woaOLb4
 
 
 - **In Polygon mainnet:**
@@ -29,9 +31,9 @@ In the last few months, I saw so many of my friends from the AI field created so
 ## How I built it
 
 - Polygon Mumbai Testnet:
-    - Membership NFT contract: 0xe7EE16b6Cd943A0348d682c9B2E734c1e3F18E7a
-    - ERC-20 Token contract: 0x8dC72d22A5ca36f781d2BE0882b5280478cc9982
-    - DAO Governance Contarct: 0xc9ED680594F2EdDDBCB007245C1eEFCBbD96708b
+    - Membership NFT contract: https://mumbai.polygonscan.com/address/0xe7EE16b6Cd943A0348d682c9B2E734c1e3F18E7a
+    - ERC-20 Token contract: https://mumbai.polygonscan.com/address/0x8dC72d22A5ca36f781d2BE0882b5280478cc9982
+    - DAO Governance Contarct: https://mumbai.polygonscan.com/address/0xc9ED680594F2EdDDBCB007245C1eEFCBbD96708b
 - Filecoin and IPFS: Used NFT.Storage to store asset Metadata with URL: ipfs://bafyreifjxlnzj4jlebw44xownhzaew36w3hzra74q2bsx4eccqurhbfpnm/metadata.json
 - Chainlink VRF for verified randomness in token airdrop
 - Quicknode: Ran QuickNode API on Polygon Mumbai testnet network
